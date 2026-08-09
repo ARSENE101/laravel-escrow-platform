@@ -6,6 +6,8 @@ This project began with a simple question:
 
 > **Can software enforce trust between two parties without requiring one party to blindly trust the other?**
 
+This actually occurred to me after brutal experiences of trust violations. Trying to solve this issue with human interaction no matter the strict policy put in place with consequences, the penalties for being human is ridiculous. Humans are prone to visible biased judgement, emotion. As Mr. Freud noted in *Civilization and Its Discontents* (1930), human instincts often undermine the fragile social fabric of trust.  
+Escrow systems provide a structured safeguard, echoing Rousseau’s idea of a social contract, ensuring fairness even when human nature falters.
 Before I learned about blockchain technology or smart contracts, I explored this idea by designing and developing an escrow platform using Laravel.
 
 The goal was not simply to build another payment application. Instead, I wanted to investigate how software could model contractual agreements by enforcing predefined rules that automatically determine when funds should be released.
@@ -16,7 +18,7 @@ Looking back, I now recognize that many of the concepts explored in this project
 
 # The Problem
 
-Many online transactions require trust between two parties.
+Many transactions require trust between two parties.
 
 Whether purchasing a product, paying for freelance work, or exchanging services, one participant often has to trust that the other will fulfill their obligations.
 
@@ -72,8 +74,8 @@ The project explores concepts such as:
 
 # What I Learned
 
-Although I originally viewed this as an escrow management system, revisiting the project has given me a different perspective.
-
+Although I originally viewed this as an escrow management system, revisiting the project has given me a different perspective, also i worked under the assumption that the 2 or several parties involved had to each provide proof of deed. To be used as a backend system for my Original idea Titled Verity a truth determination platform, where one is rewarded for being right and punished for being wrong dependent on the agreement of the parties involved. This project is still in development till date and i am sure its private for now but as soon as i am done it will be public, if you did not understand what the project is about just keep this in mind, a platform where truth is on record.
+Back to my escrow system:
 Many of the architectural ideas explored here closely resemble concepts found in blockchain-based smart contracts, including:
 
 - Rule-driven execution
@@ -107,7 +109,7 @@ This repository represents an earlier stage of my software engineering journey.
 
 The implementation reflects the knowledge and experience I had at the time and remains preserved as part of my learning process.
 
-Rather than replacing it, I prefer to document its evolution because it demonstrates how my approach to system design has matured over time.
+Rather than replacing it, I prefer to document its evolution because it demonstrates how my approach to system design has matured over time and i will create another repo, correcting the mistakes i made on this project prcisely.
 
 ---
 
